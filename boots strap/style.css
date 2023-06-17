@@ -9,6 +9,8 @@
     border-style: groove;
     border-color: black;
     border-width: 2px;
+    margin-left: 1px;
+    margin-right: 1px;
 }
 .heading2{
     background-color: whitesmoke;
@@ -17,6 +19,9 @@
   border-width: 2px;
   margin-top: 8px;
   padding-top: 8px;
+  margin-left: 1px;
+  margin-right: 1px;
+  
 }
 .third p{
        background-color: darkgrey ;
@@ -26,9 +31,23 @@
        text-align: justify;
        padding-top: 30px;
        padding: 10px 10px 10px;
+       margin-top: 10px;
 }
 .third h5{
     font-weight: bold;
 
 
+}
+.paragraph{
+    margin-top: 10px;
+    background-color: darkgrey ;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    text-align: justify;
+    padding-top: 30px;
+    padding: 10px 10px 10px;
+    height: 300px;
+    width: 540px;
+    
 }
