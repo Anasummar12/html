@@ -4,4 +4,34 @@ h5{
     border-style: hidden;
     background-color: gray;
     
+    
+}
+img{
+    width: 306px;
+}
+
+.part1{
+    border-color: gray;
+    border-width: 2px;
+    border-style: hidden;
+    background-color: gray;
+}
+.part2{
+    border-color: aqua;
+    border-width: 2px;
+    border-style: groove;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.part3{
+    border-color: aqua;
+    border-width: 2px;
+    border-style: groove;
+    background-color: aqua;
+    margin-left: 20px;
+    
+}
+.boy{
+    color: aqua;
 }
