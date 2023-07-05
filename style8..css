@@ -1,0 +1,10 @@
+.part1{
+    border-color: gray;
+    border-width: 2px;
+    border-style: hidden;
+    background-color: rgb(210, 203, 203);
+    height: 250px;
+}
+.part2{
+    color: gray;
+}
