@@ -5,6 +5,17 @@
     margin-top: 50px;
 }
 .www{
-    width: 600px;
+    width: 800px;
     height: 400px;
+    margin-top: 20px;
+    margin-bottom:10px;
+}
+.h1{
+    margin-top: 20px;
+}
+.third{
+    display: flex;
+}
+.card{
+    margin-top: 20px;
 }
